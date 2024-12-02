@@ -51,8 +51,9 @@ int main(){
 #include <iterator>
 #include <vector>
 #include <deque>
+#include <iostream>
 
-template <typename Iter>
+/*template <typename Iter>
 Iter Unique(Iter first, Iter last) {
     auto it1 = first;
     auto it2 = first;
@@ -67,11 +68,13 @@ Iter Unique(Iter first, Iter last) {
         }
     }
     return it1;
-}
+}*/
 
 int main(){
-    std::deque<int> arra = {5, 3, 2, 3, 1, 5, 17, 8, 1};
-    Unique(arra.begin(), arra.end() - 1);
+    //std::deque<int> arra = {5, 3, 2, 3, 1, 5, 17, 8, 1};
+    //Unique(arra.begin(), arra.end() - 1);
+    std::cout << "Pricol";
+    std::cout << "hdh";
 }
-
+//pricol
 

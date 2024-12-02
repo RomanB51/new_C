@@ -6,7 +6,7 @@
 
 int main(){
 
-    std::vector<std::string> stroka(1000);
+    std::vector<std::string> stroka(3);
     std::string word;
 
     while(std::getline(std::cin, word))
