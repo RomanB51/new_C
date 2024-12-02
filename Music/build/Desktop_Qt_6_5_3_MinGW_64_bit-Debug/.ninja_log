@@ -1,0 +1,26 @@
+# ninja log v6
+642	885	7542190138378790	CMakeFiles/Music.dir/Music_autogen/mocs_compilation.cpp.obj	dcd0ff1c1555a5c2
+16	351	7542211305377270	Music_autogen/mocs_compilation.cpp	a674b14d97c0dfb
+16	351	7542211305377270	Music_autogen/timestamp	a674b14d97c0dfb
+1461	1755	7542211319837318	Music.exe	660875e3ae222d12
+352	1461	7542211308737324	CMakeFiles/Music.dir/main.cpp.obj	1c3d166d9425c468
+16	351	7542211305377270	D:/C++/QT creator/My_project/Music/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Music_autogen/timestamp	a674b14d97c0dfb
+16	351	7542211305377270	D:/C++/QT creator/My_project/Music/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Music_autogen/mocs_compilation.cpp	a674b14d97c0dfb
+17	486	7542261021144545	Music_autogen/timestamp	a674b14d97c0dfb
+17	486	7542261021144545	Music_autogen/mocs_compilation.cpp	a674b14d97c0dfb
+17	486	7542261021144545	D:/C++/QT creator/My_project/Music/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Music_autogen/timestamp	a674b14d97c0dfb
+17	486	7542261021144545	D:/C++/QT creator/My_project/Music/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Music_autogen/mocs_compilation.cpp	a674b14d97c0dfb
+488	3928	7542261025852245	CMakeFiles/Music.dir/main.cpp.obj	1c3d166d9425c468
+3928	6409	7542261060255445	Music.exe	660875e3ae222d12
+18	522	7542303759499241	Music_autogen/timestamp	a674b14d97c0dfb
+18	522	7542303759499241	Music_autogen/mocs_compilation.cpp	a674b14d97c0dfb
+18	522	7542303759499241	D:/C++/QT creator/My_project/Music/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Music_autogen/timestamp	a674b14d97c0dfb
+18	522	7542303759499241	D:/C++/QT creator/My_project/Music/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Music_autogen/mocs_compilation.cpp	a674b14d97c0dfb
+524	3638	7542303764555291	CMakeFiles/Music.dir/main.cpp.obj	1c3d166d9425c468
+3638	5450	7542303795696720	Music.exe	660875e3ae222d12
+18	324	7542305326767078	Music_autogen/timestamp	a674b14d97c0dfb
+18	324	7542305326767078	Music_autogen/mocs_compilation.cpp	a674b14d97c0dfb
+18	324	7542305326767078	D:/C++/QT creator/My_project/Music/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Music_autogen/timestamp	a674b14d97c0dfb
+18	324	7542305326767078	D:/C++/QT creator/My_project/Music/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Music_autogen/mocs_compilation.cpp	a674b14d97c0dfb
+325	1371	7542305329837119	CMakeFiles/Music.dir/main.cpp.obj	1c3d166d9425c468
+1371	1696	7542305340302226	Music.exe	660875e3ae222d12

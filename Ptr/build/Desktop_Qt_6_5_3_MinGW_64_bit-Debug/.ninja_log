@@ -1,0 +1,60 @@
+# ninja log v6
+73	787	7543187730768455	Ptr_autogen/timestamp	112e1a6eef557ea1
+73	787	7543187730768455	Ptr_autogen/mocs_compilation.cpp	112e1a6eef557ea1
+73	787	7543187730768455	D:/C++/QT creator/My_project/Ptr/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Ptr_autogen/timestamp	112e1a6eef557ea1
+73	787	7543187730768455	D:/C++/QT creator/My_project/Ptr/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Ptr_autogen/mocs_compilation.cpp	112e1a6eef557ea1
+818	1070	7543187732508435	CMakeFiles/Ptr.dir/Ptr_autogen/mocs_compilation.cpp.obj	6d3920140970cb7
+8	317	7543188255433300	Ptr_autogen/timestamp	112e1a6eef557ea1
+8	317	7543188255433300	Ptr_autogen/mocs_compilation.cpp	112e1a6eef557ea1
+8	317	7543188255433300	D:/C++/QT creator/My_project/Ptr/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Ptr_autogen/timestamp	112e1a6eef557ea1
+8	317	7543188255433300	D:/C++/QT creator/My_project/Ptr/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Ptr_autogen/mocs_compilation.cpp	112e1a6eef557ea1
+11	351	7543188715116924	Ptr_autogen/timestamp	112e1a6eef557ea1
+11	351	7543188715116924	Ptr_autogen/mocs_compilation.cpp	112e1a6eef557ea1
+11	351	7543188715116924	D:/C++/QT creator/My_project/Ptr/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Ptr_autogen/timestamp	112e1a6eef557ea1
+11	351	7543188715116924	D:/C++/QT creator/My_project/Ptr/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Ptr_autogen/mocs_compilation.cpp	112e1a6eef557ea1
+352	1591	7543188718535601	CMakeFiles/Ptr.dir/main.cpp.obj	5ee516cbda24fdc3
+1595	2243	7543188730955603	Ptr.exe	a7fa38e59ecb9f3b
+18	311	7543190734731254	Ptr_autogen/timestamp	112e1a6eef557ea1
+18	311	7543190734731254	Ptr_autogen/mocs_compilation.cpp	112e1a6eef557ea1
+18	311	7543190734731254	D:/C++/QT creator/My_project/Ptr/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Ptr_autogen/timestamp	112e1a6eef557ea1
+18	311	7543190734731254	D:/C++/QT creator/My_project/Ptr/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Ptr_autogen/mocs_compilation.cpp	112e1a6eef557ea1
+17	328	7543191723952546	Ptr_autogen/timestamp	112e1a6eef557ea1
+17	328	7543191723952546	Ptr_autogen/mocs_compilation.cpp	112e1a6eef557ea1
+17	328	7543191723952546	D:/C++/QT creator/My_project/Ptr/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Ptr_autogen/timestamp	112e1a6eef557ea1
+17	328	7543191723952546	D:/C++/QT creator/My_project/Ptr/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Ptr_autogen/mocs_compilation.cpp	112e1a6eef557ea1
+330	1555	7543191727086776	CMakeFiles/Ptr.dir/main.cpp.obj	5ee516cbda24fdc3
+1555	1884	7543191739336763	Ptr.exe	a7fa38e59ecb9f3b
+17	355	7543195176562130	Ptr_autogen/timestamp	112e1a6eef557ea1
+17	355	7543195176562130	Ptr_autogen/mocs_compilation.cpp	112e1a6eef557ea1
+17	355	7543195176562130	D:/C++/QT creator/My_project/Ptr/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Ptr_autogen/timestamp	112e1a6eef557ea1
+17	355	7543195176562130	D:/C++/QT creator/My_project/Ptr/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Ptr_autogen/mocs_compilation.cpp	112e1a6eef557ea1
+357	1375	7543195179962133	CMakeFiles/Ptr.dir/main.cpp.obj	5ee516cbda24fdc3
+1375	1654	7543195190142106	Ptr.exe	a7fa38e59ecb9f3b
+19	312	7543197203983207	Ptr_autogen/timestamp	112e1a6eef557ea1
+19	312	7543197203983207	Ptr_autogen/mocs_compilation.cpp	112e1a6eef557ea1
+19	312	7543197203983207	D:/C++/QT creator/My_project/Ptr/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Ptr_autogen/timestamp	112e1a6eef557ea1
+19	312	7543197203983207	D:/C++/QT creator/My_project/Ptr/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Ptr_autogen/mocs_compilation.cpp	112e1a6eef557ea1
+19	328	7543198278513685	Ptr_autogen/timestamp	112e1a6eef557ea1
+19	328	7543198278513685	Ptr_autogen/mocs_compilation.cpp	112e1a6eef557ea1
+19	328	7543198278513685	D:/C++/QT creator/My_project/Ptr/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Ptr_autogen/timestamp	112e1a6eef557ea1
+19	328	7543198278513685	D:/C++/QT creator/My_project/Ptr/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Ptr_autogen/mocs_compilation.cpp	112e1a6eef557ea1
+331	1736	7543198281627628	CMakeFiles/Ptr.dir/main.cpp.obj	5ee516cbda24fdc3
+1737	2014	7543198295687235	Ptr.exe	a7fa38e59ecb9f3b
+23	368	7543199499531670	Ptr_autogen/timestamp	112e1a6eef557ea1
+23	368	7543199499531670	Ptr_autogen/mocs_compilation.cpp	112e1a6eef557ea1
+23	368	7543199499531670	D:/C++/QT creator/My_project/Ptr/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Ptr_autogen/timestamp	112e1a6eef557ea1
+23	368	7543199499531670	D:/C++/QT creator/My_project/Ptr/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Ptr_autogen/mocs_compilation.cpp	112e1a6eef557ea1
+369	1576	7543199502991631	CMakeFiles/Ptr.dir/main.cpp.obj	5ee516cbda24fdc3
+1576	1870	7543199515061656	Ptr.exe	a7fa38e59ecb9f3b
+20	329	7543225400480880	Ptr_autogen/timestamp	112e1a6eef557ea1
+20	329	7543225400480880	Ptr_autogen/mocs_compilation.cpp	112e1a6eef557ea1
+20	329	7543225400480880	D:/C++/QT creator/My_project/Ptr/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Ptr_autogen/timestamp	112e1a6eef557ea1
+20	329	7543225400480880	D:/C++/QT creator/My_project/Ptr/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Ptr_autogen/mocs_compilation.cpp	112e1a6eef557ea1
+16	334	7543225989531327	Ptr_autogen/timestamp	112e1a6eef557ea1
+16	334	7543225989531327	Ptr_autogen/mocs_compilation.cpp	112e1a6eef557ea1
+16	334	7543225989531327	D:/C++/QT creator/My_project/Ptr/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Ptr_autogen/timestamp	112e1a6eef557ea1
+16	334	7543225989531327	D:/C++/QT creator/My_project/Ptr/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Ptr_autogen/mocs_compilation.cpp	112e1a6eef557ea1
+16	347	7543226379868684	Ptr_autogen/timestamp	112e1a6eef557ea1
+16	347	7543226379868684	Ptr_autogen/mocs_compilation.cpp	112e1a6eef557ea1
+16	347	7543226379868684	D:/C++/QT creator/My_project/Ptr/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Ptr_autogen/timestamp	112e1a6eef557ea1
+16	347	7543226379868684	D:/C++/QT creator/My_project/Ptr/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Ptr_autogen/mocs_compilation.cpp	112e1a6eef557ea1

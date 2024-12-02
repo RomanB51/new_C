@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-7a49b482b21e681e731c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Konsole",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Konsole::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Konsole-Debug-8a30056c2140df989f4b.json",
+					"name" : "Konsole",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Konsole_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Konsole_autogen-Debug-bd6d756339a2454cb06d.json",
+					"name" : "Konsole_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Konsole_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Konsole_autogen_timestamp_deps-Debug-cb35aee03a1f6a21a0b6.json",
+					"name" : "Konsole_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/C++/QT creator/My_project/Konsole/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug",
+		"source" : "D:/C++/QT creator/My_project/Konsole"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,62 @@
+# ninja log v6
+829	4177	7542382445870149	CMakeFiles/Cguests.dir/main.cpp.obj	d3e62d8f246d4bde
+200	828	7542382439580145	Cguests_autogen/timestamp	4c77c7610fea3ae5
+200	828	7542382439580145	Cguests_autogen/mocs_compilation.cpp	4c77c7610fea3ae5
+4177	5490	7542382479350124	Cguests.exe	ed5a3cb9dd06e98b
+200	828	7542382439580145	D:/C++/QT creator/My_project/Cguests/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Cguests_autogen/timestamp	4c77c7610fea3ae5
+200	828	7542382439580145	D:/C++/QT creator/My_project/Cguests/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Cguests_autogen/mocs_compilation.cpp	4c77c7610fea3ae5
+2224	2556	7542321333034139	CMakeFiles/Cguests.dir/Cguests_autogen/mocs_compilation.cpp.obj	eb9326a7b235734
+75	441	7542383423620385	Cguests_autogen/timestamp	4c77c7610fea3ae5
+75	441	7542383423620385	Cguests_autogen/mocs_compilation.cpp	4c77c7610fea3ae5
+75	441	7542383423620385	D:/C++/QT creator/My_project/Cguests/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Cguests_autogen/timestamp	4c77c7610fea3ae5
+75	441	7542383423620385	D:/C++/QT creator/My_project/Cguests/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Cguests_autogen/mocs_compilation.cpp	4c77c7610fea3ae5
+443	2034	7542383427300431	CMakeFiles/Cguests.dir/main.cpp.obj	d3e62d8f246d4bde
+2034	2339	7542383443210384	Cguests.exe	ed5a3cb9dd06e98b
+20	391	7542384203891178	Cguests_autogen/timestamp	4c77c7610fea3ae5
+20	391	7542384203891178	Cguests_autogen/mocs_compilation.cpp	4c77c7610fea3ae5
+20	391	7542384203891178	D:/C++/QT creator/My_project/Cguests/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Cguests_autogen/timestamp	4c77c7610fea3ae5
+20	391	7542384203891178	D:/C++/QT creator/My_project/Cguests/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Cguests_autogen/mocs_compilation.cpp	4c77c7610fea3ae5
+392	2116	7542384207611229	CMakeFiles/Cguests.dir/main.cpp.obj	d3e62d8f246d4bde
+2117	2434	7542384224851157	Cguests.exe	ed5a3cb9dd06e98b
+15	339	7542402362785077	Cguests_autogen/timestamp	4c77c7610fea3ae5
+15	339	7542402362785077	Cguests_autogen/mocs_compilation.cpp	4c77c7610fea3ae5
+15	339	7542402362785077	D:/C++/QT creator/My_project/Cguests/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Cguests_autogen/timestamp	4c77c7610fea3ae5
+15	339	7542402362785077	D:/C++/QT creator/My_project/Cguests/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Cguests_autogen/mocs_compilation.cpp	4c77c7610fea3ae5
+18	344	7542402886373859	Cguests_autogen/timestamp	4c77c7610fea3ae5
+18	344	7542402886373859	Cguests_autogen/mocs_compilation.cpp	4c77c7610fea3ae5
+18	344	7542402886373859	D:/C++/QT creator/My_project/Cguests/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Cguests_autogen/timestamp	4c77c7610fea3ae5
+18	344	7542402886373859	D:/C++/QT creator/My_project/Cguests/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Cguests_autogen/mocs_compilation.cpp	4c77c7610fea3ae5
+20	362	7542403088816478	Cguests_autogen/timestamp	4c77c7610fea3ae5
+20	362	7542403088816478	Cguests_autogen/mocs_compilation.cpp	4c77c7610fea3ae5
+20	362	7542403088816478	D:/C++/QT creator/My_project/Cguests/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Cguests_autogen/timestamp	4c77c7610fea3ae5
+20	362	7542403088816478	D:/C++/QT creator/My_project/Cguests/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Cguests_autogen/mocs_compilation.cpp	4c77c7610fea3ae5
+24	398	7542404014379276	Cguests_autogen/timestamp	4c77c7610fea3ae5
+24	398	7542404014379276	Cguests_autogen/mocs_compilation.cpp	4c77c7610fea3ae5
+24	398	7542404014379276	D:/C++/QT creator/My_project/Cguests/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Cguests_autogen/timestamp	4c77c7610fea3ae5
+24	398	7542404014379276	D:/C++/QT creator/My_project/Cguests/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Cguests_autogen/mocs_compilation.cpp	4c77c7610fea3ae5
+400	2169	7542404018139228	CMakeFiles/Cguests.dir/main.cpp.obj	d3e62d8f246d4bde
+2170	2574	7542404035839246	Cguests.exe	ed5a3cb9dd06e98b
+20	363	7542404449194184	Cguests_autogen/timestamp	4c77c7610fea3ae5
+20	363	7542404449194184	Cguests_autogen/mocs_compilation.cpp	4c77c7610fea3ae5
+20	363	7542404449194184	D:/C++/QT creator/My_project/Cguests/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Cguests_autogen/timestamp	4c77c7610fea3ae5
+20	363	7542404449194184	D:/C++/QT creator/My_project/Cguests/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Cguests_autogen/mocs_compilation.cpp	4c77c7610fea3ae5
+365	2099	7542404452644233	CMakeFiles/Cguests.dir/main.cpp.obj	d3e62d8f246d4bde
+2100	2396	7542404469994181	Cguests.exe	ed5a3cb9dd06e98b
+57	143	7542411545744446	CMakeFiles/clean.additional	e4e230a632c15d70
+143	158	7542411546614834	clean	f1f0195c77199160
+14	967	7542411556785676	Cguests_autogen/timestamp	4c77c7610fea3ae5
+14	967	7542411556785676	Cguests_autogen/mocs_compilation.cpp	4c77c7610fea3ae5
+14	967	7542411556785676	D:/C++/QT creator/My_project/Cguests/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Cguests_autogen/timestamp	4c77c7610fea3ae5
+14	967	7542411556785676	D:/C++/QT creator/My_project/Cguests/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Cguests_autogen/mocs_compilation.cpp	4c77c7610fea3ae5
+968	1202	7542411558035706	CMakeFiles/Cguests.dir/Cguests_autogen/mocs_compilation.cpp.obj	eb9326a7b235734
+980	2456	7542411558147080	CMakeFiles/Cguests.dir/main.cpp.obj	d3e62d8f246d4bde
+2456	3102	7542411572915693	Cguests.exe	ed5a3cb9dd06e98b
+6	97	7542411762888476	CMakeFiles/clean.additional	e4e230a632c15d70
+97	111	7542411763798493	clean	f1f0195c77199160
+17	546	7542411769808483	Cguests_autogen/timestamp	4c77c7610fea3ae5
+17	546	7542411769808483	Cguests_autogen/mocs_compilation.cpp	4c77c7610fea3ae5
+17	546	7542411769808483	D:/C++/QT creator/My_project/Cguests/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Cguests_autogen/timestamp	4c77c7610fea3ae5
+17	546	7542411769808483	D:/C++/QT creator/My_project/Cguests/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Cguests_autogen/mocs_compilation.cpp	4c77c7610fea3ae5
+548	788	7542411771068522	CMakeFiles/Cguests.dir/Cguests_autogen/mocs_compilation.cpp.obj	eb9326a7b235734
+560	2157	7542411771188541	CMakeFiles/Cguests.dir/main.cpp.obj	d3e62d8f246d4bde
+2157	2449	7542411787158505	Cguests.exe	ed5a3cb9dd06e98b

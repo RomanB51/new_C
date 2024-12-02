@@ -1,0 +1,84 @@
+# ninja log v6
+41	2233	7538072614942112	Hello_world_autogen/timestamp	8f18024ec3d5b006
+41	2233	7538072614942112	Hello_world_autogen/mocs_compilation.cpp	8f18024ec3d5b006
+41	2233	7538072614942112	D:/C++/QT creator/My_project/Hello_world/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Hello_world_autogen/timestamp	8f18024ec3d5b006
+41	2233	7538072614942112	D:/C++/QT creator/My_project/Hello_world/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Hello_world_autogen/mocs_compilation.cpp	8f18024ec3d5b006
+2314	12856	7538072617676831	CMakeFiles/Hello_world.dir/Hello_world_autogen/mocs_compilation.cpp.obj	d10632f17f2a1fa6
+2370	12893	7538072618241427	CMakeFiles/Hello_world.dir/mainwindow.cpp.obj	aabeae40d269af37
+2324	12934	7538072617787189	CMakeFiles/Hello_world.dir/main.cpp.obj	a8cdc50a02d49985
+12945	15909	7538072723994528	Hello_world.exe	33598e5a3e3324b1
+735	1333	7538075261141682	Hello_world_autogen/timestamp	8f18024ec3d5b006
+735	1333	7538075261141682	Hello_world_autogen/mocs_compilation.cpp	8f18024ec3d5b006
+735	1333	7538075261141682	D:/C++/QT creator/My_project/Hello_world/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Hello_world_autogen/timestamp	8f18024ec3d5b006
+735	1333	7538075261141682	D:/C++/QT creator/My_project/Hello_world/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Hello_world_autogen/mocs_compilation.cpp	8f18024ec3d5b006
+1335	6823	7538075267145708	CMakeFiles/Hello_world.dir/mainwindow.cpp.obj	aabeae40d269af37
+6823	7280	7538075322027894	Hello_world.exe	33598e5a3e3324b1
+26	593	7538089667918997	Hello_world_autogen/timestamp	8f18024ec3d5b006
+26	593	7538089667918997	Hello_world_autogen/mocs_compilation.cpp	8f18024ec3d5b006
+26	593	7538089667918997	D:/C++/QT creator/My_project/Hello_world/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Hello_world_autogen/timestamp	8f18024ec3d5b006
+26	593	7538089667918997	D:/C++/QT creator/My_project/Hello_world/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Hello_world_autogen/mocs_compilation.cpp	8f18024ec3d5b006
+595	12430	7538089673614288	CMakeFiles/Hello_world.dir/main.cpp.obj	a8cdc50a02d49985
+660	12668	7538089674262542	CMakeFiles/Hello_world.dir/mainwindow.cpp.obj	aabeae40d269af37
+178	779	7538090441572852	Hello_world_autogen/timestamp	8f18024ec3d5b006
+178	779	7538090441572852	Hello_world_autogen/mocs_compilation.cpp	8f18024ec3d5b006
+178	779	7538090441572852	D:/C++/QT creator/My_project/Hello_world/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Hello_world_autogen/timestamp	8f18024ec3d5b006
+178	779	7538090441572852	D:/C++/QT creator/My_project/Hello_world/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Hello_world_autogen/mocs_compilation.cpp	8f18024ec3d5b006
+781	6175	7538090447606660	CMakeFiles/Hello_world.dir/main.cpp.obj	a8cdc50a02d49985
+793	6322	7538090447726615	CMakeFiles/Hello_world.dir/mainwindow.cpp.obj	aabeae40d269af37
+28	463	7538090948288059	Hello_world_autogen/timestamp	8f18024ec3d5b006
+28	463	7538090948288059	Hello_world_autogen/mocs_compilation.cpp	8f18024ec3d5b006
+28	463	7538090948288059	D:/C++/QT creator/My_project/Hello_world/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Hello_world_autogen/timestamp	8f18024ec3d5b006
+28	463	7538090948288059	D:/C++/QT creator/My_project/Hello_world/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Hello_world_autogen/mocs_compilation.cpp	8f18024ec3d5b006
+28	450	7538093406329411	Hello_world_autogen/timestamp	8f18024ec3d5b006
+28	450	7538093406329411	Hello_world_autogen/mocs_compilation.cpp	8f18024ec3d5b006
+28	450	7538093406329411	D:/C++/QT creator/My_project/Hello_world/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Hello_world_autogen/timestamp	8f18024ec3d5b006
+28	450	7538093406329411	D:/C++/QT creator/My_project/Hello_world/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Hello_world_autogen/mocs_compilation.cpp	8f18024ec3d5b006
+143	711	7538095744827054	Hello_world_autogen/timestamp	8f18024ec3d5b006
+143	711	7538095744827054	Hello_world_autogen/mocs_compilation.cpp	8f18024ec3d5b006
+143	711	7538095744827054	D:/C++/QT creator/My_project/Hello_world/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Hello_world_autogen/timestamp	8f18024ec3d5b006
+143	711	7538095744827054	D:/C++/QT creator/My_project/Hello_world/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Hello_world_autogen/mocs_compilation.cpp	8f18024ec3d5b006
+713	7456	7538095750530440	CMakeFiles/Hello_world.dir/main.cpp.obj	a8cdc50a02d49985
+35	515	7538095983109969	Hello_world_autogen/timestamp	8f18024ec3d5b006
+35	515	7538095983109969	Hello_world_autogen/mocs_compilation.cpp	8f18024ec3d5b006
+35	515	7538095983109969	D:/C++/QT creator/My_project/Hello_world/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Hello_world_autogen/timestamp	8f18024ec3d5b006
+35	515	7538095983109969	D:/C++/QT creator/My_project/Hello_world/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Hello_world_autogen/mocs_compilation.cpp	8f18024ec3d5b006
+516	5725	7538095987925484	CMakeFiles/Hello_world.dir/mainwindow.cpp.obj	aabeae40d269af37
+29	465	7538096506320748	Hello_world_autogen/timestamp	8f18024ec3d5b006
+29	465	7538096506320748	Hello_world_autogen/mocs_compilation.cpp	8f18024ec3d5b006
+29	465	7538096506320748	D:/C++/QT creator/My_project/Hello_world/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Hello_world_autogen/timestamp	8f18024ec3d5b006
+29	465	7538096506320748	D:/C++/QT creator/My_project/Hello_world/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Hello_world_autogen/mocs_compilation.cpp	8f18024ec3d5b006
+467	5670	7538096510697650	CMakeFiles/Hello_world.dir/main.cpp.obj	a8cdc50a02d49985
+482	5840	7538096510837677	CMakeFiles/Hello_world.dir/mainwindow.cpp.obj	aabeae40d269af37
+36	526	7538100455731261	Hello_world_autogen/timestamp	8f18024ec3d5b006
+36	526	7538100455731261	Hello_world_autogen/mocs_compilation.cpp	8f18024ec3d5b006
+36	526	7538100455731261	D:/C++/QT creator/My_project/Hello_world/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Hello_world_autogen/timestamp	8f18024ec3d5b006
+36	526	7538100455731261	D:/C++/QT creator/My_project/Hello_world/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Hello_world_autogen/mocs_compilation.cpp	8f18024ec3d5b006
+539	6283	7538100460764729	CMakeFiles/Hello_world.dir/mainwindow.cpp.obj	aabeae40d269af37
+527	6525	7538100460644746	CMakeFiles/Hello_world.dir/main.cpp.obj	a8cdc50a02d49985
+6525	8754	7538100520615628	Hello_world.exe	33598e5a3e3324b1
+57	568	7538102237793499	Hello_world_autogen/timestamp	8f18024ec3d5b006
+57	568	7538102237793499	Hello_world_autogen/mocs_compilation.cpp	8f18024ec3d5b006
+57	568	7538102237793499	D:/C++/QT creator/My_project/Hello_world/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Hello_world_autogen/timestamp	8f18024ec3d5b006
+57	568	7538102237793499	D:/C++/QT creator/My_project/Hello_world/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Hello_world_autogen/mocs_compilation.cpp	8f18024ec3d5b006
+569	5817	7538102242922684	CMakeFiles/Hello_world.dir/main.cpp.obj	a8cdc50a02d49985
+582	5878	7538102243042687	CMakeFiles/Hello_world.dir/mainwindow.cpp.obj	aabeae40d269af37
+5879	6376	7538102296005698	Hello_world.exe	33598e5a3e3324b1
+26	464	7538102850983720	Hello_world_autogen/timestamp	8f18024ec3d5b006
+26	464	7538102850983720	Hello_world_autogen/mocs_compilation.cpp	8f18024ec3d5b006
+26	464	7538102850983720	D:/C++/QT creator/My_project/Hello_world/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Hello_world_autogen/timestamp	8f18024ec3d5b006
+26	464	7538102850983720	D:/C++/QT creator/My_project/Hello_world/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Hello_world_autogen/mocs_compilation.cpp	8f18024ec3d5b006
+466	5353	7538102855386851	CMakeFiles/Hello_world.dir/mainwindow.cpp.obj	aabeae40d269af37
+5353	5855	7538102904256989	Hello_world.exe	33598e5a3e3324b1
+36	490	7538103525790674	Hello_world_autogen/timestamp	8f18024ec3d5b006
+36	490	7538103525790674	Hello_world_autogen/mocs_compilation.cpp	8f18024ec3d5b006
+36	490	7538103525790674	D:/C++/QT creator/My_project/Hello_world/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Hello_world_autogen/timestamp	8f18024ec3d5b006
+36	490	7538103525790674	D:/C++/QT creator/My_project/Hello_world/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Hello_world_autogen/mocs_compilation.cpp	8f18024ec3d5b006
+491	4510	7538103530335686	CMakeFiles/Hello_world.dir/main.cpp.obj	a8cdc50a02d49985
+503	4682	7538103530455556	CMakeFiles/Hello_world.dir/mainwindow.cpp.obj	aabeae40d269af37
+4682	5104	7538103572238952	Hello_world.exe	33598e5a3e3324b1
+35	521	7538103728010954	Hello_world_autogen/timestamp	8f18024ec3d5b006
+35	521	7538103728010954	Hello_world_autogen/mocs_compilation.cpp	8f18024ec3d5b006
+35	521	7538103728010954	D:/C++/QT creator/My_project/Hello_world/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Hello_world_autogen/timestamp	8f18024ec3d5b006
+35	521	7538103728010954	D:/C++/QT creator/My_project/Hello_world/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Hello_world_autogen/mocs_compilation.cpp	8f18024ec3d5b006
+523	5479	7538103732894837	CMakeFiles/Hello_world.dir/mainwindow.cpp.obj	aabeae40d269af37
+5479	5920	7538103782455388	Hello_world.exe	33598e5a3e3324b1

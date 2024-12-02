@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ed7f6a581f8ba9a5bfc4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Figny",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Figny::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Figny-Debug-2b9a5357364f9097d868.json",
+					"name" : "Figny",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Figny_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Figny_autogen-Debug-990dfd70b938f094245b.json",
+					"name" : "Figny_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Figny_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Figny_autogen_timestamp_deps-Debug-a7473cdce0bee2fd6270.json",
+					"name" : "Figny_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/C++/QT creator/My_project/Figny/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug",
+		"source" : "D:/C++/QT creator/My_project/Figny"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

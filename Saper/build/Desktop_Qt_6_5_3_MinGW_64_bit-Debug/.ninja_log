@@ -1,0 +1,70 @@
+# ninja log v6
+219	2977	7543033897712259	Saper_autogen/timestamp	fdc4c1bb54bf3a3
+219	2977	7543033897712259	Saper_autogen/mocs_compilation.cpp	fdc4c1bb54bf3a3
+219	2977	7543033897712259	D:/C++/QT creator/My_project/Saper/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Saper_autogen/timestamp	fdc4c1bb54bf3a3
+219	2977	7543033897712259	D:/C++/QT creator/My_project/Saper/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Saper_autogen/mocs_compilation.cpp	fdc4c1bb54bf3a3
+3022	3510	7543033899492031	CMakeFiles/Saper.dir/Saper_autogen/mocs_compilation.cpp.obj	e52ea2c66e347f38
+120	490	7543034008098147	Saper_autogen/timestamp	fdc4c1bb54bf3a3
+120	490	7543034008098147	Saper_autogen/mocs_compilation.cpp	fdc4c1bb54bf3a3
+120	490	7543034008098147	D:/C++/QT creator/My_project/Saper/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Saper_autogen/timestamp	fdc4c1bb54bf3a3
+120	490	7543034008098147	D:/C++/QT creator/My_project/Saper/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Saper_autogen/mocs_compilation.cpp	fdc4c1bb54bf3a3
+492	1768	7543034011818191	CMakeFiles/Saper.dir/main.cpp.obj	cb31638e0dd3ef44
+1772	3366	7543034024618159	Saper.exe	3d84ec4266163299
+313	868	7543043898898226	Saper_autogen/timestamp	fdc4c1bb54bf3a3
+313	868	7543043898898226	Saper_autogen/mocs_compilation.cpp	fdc4c1bb54bf3a3
+313	868	7543043898898226	D:/C++/QT creator/My_project/Saper/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Saper_autogen/timestamp	fdc4c1bb54bf3a3
+313	868	7543043898898226	D:/C++/QT creator/My_project/Saper/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Saper_autogen/mocs_compilation.cpp	fdc4c1bb54bf3a3
+51	364	7543044366723129	Saper_autogen/timestamp	fdc4c1bb54bf3a3
+51	364	7543044366723129	Saper_autogen/mocs_compilation.cpp	fdc4c1bb54bf3a3
+51	364	7543044366723129	D:/C++/QT creator/My_project/Saper/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Saper_autogen/timestamp	fdc4c1bb54bf3a3
+51	364	7543044366723129	D:/C++/QT creator/My_project/Saper/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Saper_autogen/mocs_compilation.cpp	fdc4c1bb54bf3a3
+365	2447	7543044369863145	CMakeFiles/Saper.dir/main.cpp.obj	cb31638e0dd3ef44
+2447	4004	7543044390683125	Saper.exe	3d84ec4266163299
+20	362	7543047844642032	Saper_autogen/timestamp	fdc4c1bb54bf3a3
+20	362	7543047844642032	Saper_autogen/mocs_compilation.cpp	fdc4c1bb54bf3a3
+20	362	7543047844642032	D:/C++/QT creator/My_project/Saper/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Saper_autogen/timestamp	fdc4c1bb54bf3a3
+20	362	7543047844642032	D:/C++/QT creator/My_project/Saper/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Saper_autogen/mocs_compilation.cpp	fdc4c1bb54bf3a3
+363	1608	7543047848082015	CMakeFiles/Saper.dir/main.cpp.obj	cb31638e0dd3ef44
+1608	1882	7543047860532007	Saper.exe	3d84ec4266163299
+19	340	7543049549129894	Saper_autogen/timestamp	fdc4c1bb54bf3a3
+19	340	7543049549129894	Saper_autogen/mocs_compilation.cpp	fdc4c1bb54bf3a3
+19	340	7543049549129894	D:/C++/QT creator/My_project/Saper/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Saper_autogen/timestamp	fdc4c1bb54bf3a3
+19	340	7543049549129894	D:/C++/QT creator/My_project/Saper/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Saper_autogen/mocs_compilation.cpp	fdc4c1bb54bf3a3
+342	1591	7543049552359860	CMakeFiles/Saper.dir/main.cpp.obj	cb31638e0dd3ef44
+1591	1887	7543049564849888	Saper.exe	3d84ec4266163299
+20	312	7543051594302906	Saper_autogen/timestamp	fdc4c1bb54bf3a3
+20	312	7543051594302906	Saper_autogen/mocs_compilation.cpp	fdc4c1bb54bf3a3
+20	312	7543051594302906	D:/C++/QT creator/My_project/Saper/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Saper_autogen/timestamp	fdc4c1bb54bf3a3
+20	312	7543051594302906	D:/C++/QT creator/My_project/Saper/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Saper_autogen/mocs_compilation.cpp	fdc4c1bb54bf3a3
+313	1711	7543051597242857	CMakeFiles/Saper.dir/main.cpp.obj	cb31638e0dd3ef44
+1711	1992	7543051611222896	Saper.exe	3d84ec4266163299
+21	319	7543055403710778	Saper_autogen/timestamp	fdc4c1bb54bf3a3
+21	319	7543055403710778	Saper_autogen/mocs_compilation.cpp	fdc4c1bb54bf3a3
+21	319	7543055403710778	D:/C++/QT creator/My_project/Saper/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Saper_autogen/timestamp	fdc4c1bb54bf3a3
+21	319	7543055403710778	D:/C++/QT creator/My_project/Saper/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Saper_autogen/mocs_compilation.cpp	fdc4c1bb54bf3a3
+321	1712	7543055406710739	CMakeFiles/Saper.dir/main.cpp.obj	cb31638e0dd3ef44
+1712	2004	7543055420620707	Saper.exe	3d84ec4266163299
+18	323	7543055867761112	Saper_autogen/timestamp	fdc4c1bb54bf3a3
+18	323	7543055867761112	Saper_autogen/mocs_compilation.cpp	fdc4c1bb54bf3a3
+18	323	7543055867761112	D:/C++/QT creator/My_project/Saper/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Saper_autogen/timestamp	fdc4c1bb54bf3a3
+18	323	7543055867761112	D:/C++/QT creator/My_project/Saper/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Saper_autogen/mocs_compilation.cpp	fdc4c1bb54bf3a3
+324	1727	7543055870819300	CMakeFiles/Saper.dir/main.cpp.obj	cb31638e0dd3ef44
+1728	2021	7543055884859262	Saper.exe	3d84ec4266163299
+17	339	7543057633172427	Saper_autogen/timestamp	fdc4c1bb54bf3a3
+17	339	7543057633172427	Saper_autogen/mocs_compilation.cpp	fdc4c1bb54bf3a3
+17	339	7543057633172427	D:/C++/QT creator/My_project/Saper/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Saper_autogen/timestamp	fdc4c1bb54bf3a3
+17	339	7543057633172427	D:/C++/QT creator/My_project/Saper/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Saper_autogen/mocs_compilation.cpp	fdc4c1bb54bf3a3
+341	1663	7543057636412243	CMakeFiles/Saper.dir/main.cpp.obj	cb31638e0dd3ef44
+1663	1969	7543057649622241	Saper.exe	3d84ec4266163299
+15	373	7543077254892216	Saper_autogen/timestamp	fdc4c1bb54bf3a3
+15	373	7543077254892216	Saper_autogen/mocs_compilation.cpp	fdc4c1bb54bf3a3
+15	373	7543077254892216	D:/C++/QT creator/My_project/Saper/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Saper_autogen/timestamp	fdc4c1bb54bf3a3
+15	373	7543077254892216	D:/C++/QT creator/My_project/Saper/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Saper_autogen/mocs_compilation.cpp	fdc4c1bb54bf3a3
+374	2250	7543077258482246	CMakeFiles/Saper.dir/main.cpp.obj	cb31638e0dd3ef44
+2250	3336	7543077277232221	Saper.exe	3d84ec4266163299
+15	319	7543083487519386	Saper_autogen/timestamp	fdc4c1bb54bf3a3
+15	319	7543083487519386	Saper_autogen/mocs_compilation.cpp	fdc4c1bb54bf3a3
+15	319	7543083487519386	D:/C++/QT creator/My_project/Saper/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Saper_autogen/timestamp	fdc4c1bb54bf3a3
+15	319	7543083487519386	D:/C++/QT creator/My_project/Saper/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Saper_autogen/mocs_compilation.cpp	fdc4c1bb54bf3a3
+321	1732	7543083490579317	CMakeFiles/Saper.dir/main.cpp.obj	cb31638e0dd3ef44
+1732	2182	7543083504689364	Saper.exe	3d84ec4266163299

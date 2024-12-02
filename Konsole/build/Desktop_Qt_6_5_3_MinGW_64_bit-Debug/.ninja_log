@@ -1,0 +1,13 @@
+# ninja log v6
+15	324	7542188302327896	Konsole_autogen/timestamp	c532b4e4fc21ad62
+15	324	7542188302327896	Konsole_autogen/mocs_compilation.cpp	c532b4e4fc21ad62
+2725	3971	7539861381599615	Konsole.exe	b63cf29d4df6989e
+577	2724	7539861360133538	CMakeFiles/Konsole.dir/second_file.cpp.obj	6ba2d6499d78a417
+15	324	7542188302327896	D:/C++/QT creator/My_project/Konsole/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Konsole_autogen/timestamp	c532b4e4fc21ad62
+669	942	7538105612931653	CMakeFiles/Konsole.dir/Konsole_autogen/mocs_compilation.cpp.obj	6fd8faf9d095ed55
+15	324	7542188302327896	D:/C++/QT creator/My_project/Konsole/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Konsole_autogen/mocs_compilation.cpp	c532b4e4fc21ad62
+442	2809	7538860194042021	CMakeFiles/Konsole.dir/main.cpp.obj	74045c14e4b57864
+12	298	7542189269799033	Konsole_autogen/timestamp	c532b4e4fc21ad62
+12	298	7542189269799033	Konsole_autogen/mocs_compilation.cpp	c532b4e4fc21ad62
+12	298	7542189269799033	D:/C++/QT creator/My_project/Konsole/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Konsole_autogen/timestamp	c532b4e4fc21ad62
+12	298	7542189269799033	D:/C++/QT creator/My_project/Konsole/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Konsole_autogen/mocs_compilation.cpp	c532b4e4fc21ad62
